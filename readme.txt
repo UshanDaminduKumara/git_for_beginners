@@ -1,4 +1,4 @@
 welcome to my project 
 hellow
-Author:ushan damindu
+Author:ushan damindu lastname
 Twitter:ushaa200

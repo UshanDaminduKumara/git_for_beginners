@@ -1,4 +1,5 @@
-welcome to my project 
-hellow
+Hello!, welcome to my project 
+
 Author:ushan damindu kumara
-Twitter:ushaa200
+
+Google:ushandamidukumara@gmail.com

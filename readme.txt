@@ -2,4 +2,6 @@ Hello!, welcome to my project
 
 Author:ushan damindu kumara
 
-Google:ushandamidukumara@gmail.com
+gmail:ushandamidukumara@gmail.com
+
+website:www.ushan.com
